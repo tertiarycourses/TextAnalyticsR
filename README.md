@@ -1,7 +1,7 @@
-# Python GUI Development with Tkinter Training
+# WSQ Text Analytics with R
 ## by [Tertiary  Courses](https://www.tertiarycourses.com.sg/)
 
-These are the exercise files used for [WSQText Analytics with R](https://www.tertiarycourses.com.sg/wsq-text-analytics-with-r.html) course. 
+These are the exercise files used for [WSQ Text Analytics with R](https://www.tertiarycourses.com.sg/wsq-text-analytics-with-r.html) course. 
 
 The course outline can be found in 
 
